@@ -1,4 +1,5 @@
-https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif
+ <img src="[https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif](https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif)" width="100">
+
 
 # Hi there 👋 , I'm Andreas Firdaus!
 Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
