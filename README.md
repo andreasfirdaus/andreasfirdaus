@@ -1,4 +1,4 @@
-[<div class="tenor-gif-embed" data-postid="9470292509152409011" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rabbit-animal-work-hurry-busy-gif-9470292509152409011">Rabbit Animal Sticker</a>from <a href="https://tenor.com/search/rabbit-stickers">Rabbit Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.gif"></script>](https://tenor.com/view/rabbit-animal-work-hurry-busy-gif-9470292509152409011)
+https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif
 
 # Hi there 👋 , I'm Andreas Firdaus!
 Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
