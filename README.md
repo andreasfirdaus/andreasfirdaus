@@ -42,7 +42,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <p>
     <a href="https://www.linkedin.com/in/andreas-firdaus-a1b799275/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/andreasfirdaus/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-<a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 
