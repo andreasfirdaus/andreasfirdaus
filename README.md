@@ -45,7 +45,9 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </p>
 
 
-### 📝Contact me!
-<p>
-    <a href="mailto: andreasfirdaus12@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
-</p>
+
+<!-- Contact me -->
+<div align="center">
+    <a href="https://www.instagram.com/andreasfirdaus/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=instagram"></a>  
+    <a href="https://www.linkedin.com/in/andreas-firdaus-a1b799275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
