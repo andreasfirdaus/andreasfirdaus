@@ -31,6 +31,8 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![TestRail](https://img.shields.io/badge/-testrail-239120?style=for-the-badge&logo=testrail&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
