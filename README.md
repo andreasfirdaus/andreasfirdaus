@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif)" width="300">
+<img src="https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif](https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif))" width="500">
 
 
 # Hi there 👋 , I'm Andreas Firdaus!
