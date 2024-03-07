@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" width="500"  height= 300px>
+<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" width="550"  height= 300>
 
 
 # Hi there 👋 , I'm Andreas Firdaus!
