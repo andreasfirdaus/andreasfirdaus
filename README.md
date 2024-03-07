@@ -26,6 +26,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
