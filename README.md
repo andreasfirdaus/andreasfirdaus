@@ -41,7 +41,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ## 🔗Connect
 <p>
     <a href="https://www.linkedin.com/in/andreas-firdaus-a1b799275/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/andreasfirdaus/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a
+     <a href="https://www.instagram.com/andreasfirdaus/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
 <a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
@@ -49,6 +49,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 <!-- Contact me -->
 <div align="center">
-    <a href="https://www.instagram.com/andreasfirdaus/" target="_blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+ <a href="mailto: andreasfirdaus12@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a></a>
     <a href="https://www.linkedin.com/in/andreas-firdaus-a1b799275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
